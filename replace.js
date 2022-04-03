@@ -76,6 +76,8 @@ r.replace = function(answers) {
     answers = answers.replace(/李诚/g, "李诫");
     answers = answers.replace(/晖红/g, "蹿红");
     answers = answers.replace(/蹄红/g, "蹿红");
+    answers = answers.replace(/不胚而走/g, "不胫而走");
+    answers = answers.replace(/脸多人口/g, "脍炙人口");
     return answers
 };
 
