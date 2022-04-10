@@ -78,6 +78,8 @@ r.replace = function(answers) {
     answers = answers.replace(/蹄红/g, "蹿红");
     answers = answers.replace(/不胚而走/g, "不胫而走");
     answers = answers.replace(/脸多人口/g, "脍炙人口");
+    answers = answers.replace(/牌红/g, "蹿红");
+    answers = answers.replace(/踪红/g, "蹿红");
     return answers
 };
 
