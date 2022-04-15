@@ -80,6 +80,7 @@ r.replace = function(answers) {
     answers = answers.replace(/脸多人口/g, "脍炙人口");
     answers = answers.replace(/牌红/g, "蹿红");
     answers = answers.replace(/踪红/g, "蹿红");
+    answers = answers.replace(/消强/g, "消弭");
     return answers
 };
 
