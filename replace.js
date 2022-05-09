@@ -83,6 +83,7 @@ r.replace = function(answers) {
     answers = answers.replace(/消强/g, "消弭");
     answers = answers.replace(/霸伴/g, "羁绊");
     answers = answers.replace(/组击手/g, "狙击手");
+    answers = answers.replace(/粗豹/g, "粗犷");
     return answers
 };
 
