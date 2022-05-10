@@ -84,6 +84,7 @@ r.replace = function(answers) {
     answers = answers.replace(/霸伴/g, "羁绊");
     answers = answers.replace(/组击手/g, "狙击手");
     answers = answers.replace(/粗豹/g, "粗犷");
+    answers = answers.replace(/跌容起伏/g, "跌宕起伏");
     return answers
 };
 
