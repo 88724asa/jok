@@ -88,6 +88,7 @@ r.replace = function(answers) {
     answers = answers.replace(/日昆层/g, "日冕层");
     answers = answers.replace(/比陀风云/g, "叱咤风云");
     answers = answers.replace(/驾/g, "鸳");
+    answers = answers.replace(/祁我/g, "祀戎");
     return answers
 };
 
